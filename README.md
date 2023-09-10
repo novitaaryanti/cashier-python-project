@@ -124,5 +124,5 @@ The program provides the option if the customer wants to proceed or cancel the t
 
 
 
-# E. Conclusions
+## E. Conclusions
 This project covers the minimum requirements of what a self-service cashier needs. As the interface of the program is in Indonesian, this project may be useful if this program is implemented in the supermarket which is based in Indonesia. There is room for improvisation as the program only covers the minimum requirements of a self-service cashier. One of the future works that can be done is connecting the program to the database. If it is connected to the database, the main menu of the program needs to be improved, especially for the function which generates the transaction ID.
